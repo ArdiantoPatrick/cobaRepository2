@@ -259,3 +259,7 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+.vs/
+/PRG2_20222_P3_3_06
+/PRG2_20222_P3_3_06.sln
+/cobaRepository
